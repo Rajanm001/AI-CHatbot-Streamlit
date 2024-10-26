@@ -43,7 +43,7 @@ st.sidebar.warning(
 )
 
 # Set the API key directly in the code
-API_KEY = "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"  # Hardcoded API key
+API_KEY = "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"  # Hardcoded API key
 os.environ["GROQ_API_KEY"] = API_KEY  # Store API key in environment variable
 
 # Initialize session state for model and conversation history
